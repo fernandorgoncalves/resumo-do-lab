@@ -1,7 +1,7 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-Fon aprendido que existem 3 tipos de modelos de nuvem, são elas: Nuvem privada, nuvem publica e nuvem hibrida.
+Foi aprendido que existem 3 tipos de modelos de nuvem, são elas: Nuvem privada, nuvem publica e nuvem hibrida.
 
 Nuvem privada
 Falamos de nuvem privado, quando toda a infraestrutura, hardware e cabeamento e de resposabilidade do própria organização.
